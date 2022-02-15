@@ -1,0 +1,17 @@
+{
+    "name": "xdcc-content",
+    "title": "XCalibur Games Dungeon Crawl Classics Content",
+    "description": "Game content for XCalibur Games Dungeon Crawl Classics",
+    "author": "spidermonk13",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.8.9",
+    "packs": [
+        {
+            "name": "xdcc-spells",
+            "label": "XDCC Spells",
+            "system": ["xdcc"],
+            "path": "./packs/xdcc-spells.db",
+            "entity": "Item"
+        }
+    ]
+}
