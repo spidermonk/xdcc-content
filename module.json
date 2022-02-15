@@ -5,13 +5,17 @@
     "author": "spidermonk13",
     "version": "1.0.0",
     "minimumCoreVersion": "0.8.9",
+    "compatibleCoreVersion": "9",
     "packs": [
         {
             "name": "xdcc-spells",
             "label": "XDCC Spells",
             "system": ["xdcc"],
             "path": "./packs/xdcc-spells.db",
-            "entity": "Item"
+            "entity": "Item",
+            "type": "Item"
         }
-    ]
+    ],
+    "manifest": "https://github.com/spidermonk/xdcc-content/blob/main/module.json",
+    "download": "https://github.com/spidermonk/xdcc-content/archive/refs/tags/1.0.0.zip"
 }
