@@ -12,7 +12,6 @@
             "label": "XDCC Spells",
             "system": ["xdcc"],
             "path": "./packs/xdcc-spells.db",
-            "entity": "Item",
             "type": "Item"
         }
     ],
