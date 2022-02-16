@@ -10,7 +10,6 @@
         {
             "name": "xdcc-spells",
             "label": "XDCC Spells",
-            "system": ["xdcc"],
             "path": "./packs/xdcc-spells.db",
             "type": "Item"
         }
